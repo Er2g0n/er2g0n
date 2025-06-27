@@ -30,6 +30,7 @@
 
 - 📧 Email: [hnguyenngoc.h@gmail.com](mailto:hnguyenngoc.h@gmail.com)
 - 🧑‍💻 GitHub: [Er2g0n](https://github.com/Er2g0n)
+- 🔗 LinkedIn: [Ngọc Hải (LinkedIn)](https://www.linkedin.com/in/ngoc-hai-nguyen-8277341a7/)
 
 ---
 
