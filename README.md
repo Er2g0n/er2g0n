@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er2g0n&layout=compact&theme=radical" width="48%" />
 </div>
 
-
+---
 
 ## 📫 Contact
 
@@ -33,9 +33,3 @@
 ---
 
 > *"Success is the sum of small efforts repeated day in and day out."* 💭
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er2g0n&show_icons=true&theme=radical)
