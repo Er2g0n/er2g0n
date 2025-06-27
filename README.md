@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm [Nguyen Ngoc Hai]!</h1>
 
-<!--
-**Er2g0n/er2g0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring .NET Full-stack Developer passionate about building scalable and innovative web applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full-stack
+![.NET](https://img.shields.io/badge/-NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![SignalR](https://img.shields.io/badge/-SignalR-3A3A3A?style=flat&logo=signalr)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Architecture & Design
+![Microservices](https://img.shields.io/badge/-Microservices-007ACC?style=flat)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=er2g0n&show_icons=true&theme=radical)
