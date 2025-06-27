@@ -34,3 +34,4 @@
 ---
 
 > *"Success is the sum of small efforts repeated day in and day out."* 💭
+![Badge](https://img.shields.io/badge/-GitHub%20Profile%20Ready-brightgreen?style=flat)
