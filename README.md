@@ -1,6 +1,13 @@
 <h1 align="center">👋 Hello, I'm Hải (Er2g0n)!</h1>
 
 💻 Aspiring .NET Developer passionate about building scalable web applications and growing every single day.
+## 👔 Experience
+
+**Intern Software Engineer – NashTech Vietnam**  
+📍 Ho Chi Minh City | 🗓️ 2024  
+- Participated in a real Agile team environment, working with .NET and SQL Server.
+- Practiced clean code principles, version control with Git, and team collaboration via Azure DevOps.
+- Contributed to a warehouse management module in a training project.
 
 ---
 
