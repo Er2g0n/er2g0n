@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm [Nguyen Ngoc Hai]!</h1>
+<h1 align="center">👋 Hello, I'm Nguyen Ngoc Hai!</h1>
 
 🌟 Aspiring .NET Full-stack Developer passionate about building scalable and innovative web applications.
 
