@@ -1,18 +1,32 @@
-<h1 align="center">👋 Hello, I'm Nguyen Ngoc Hai!</h1>
+<h1 align="center">👋 Hello, I'm Hải (Er2g0n)!</h1>
 
-🌟 Aspiring .NET Full-stack Developer passionate about building scalable and innovative web applications.
+💻 Aspiring .NET Developer passionate about building scalable web applications and growing every single day.
+
+---
 
 ## 🛠️ Tech Highlights
 
 ### Full-stack
-![.NET](https://img.shields.io/badge/-NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![SignalR](https://img.shields.io/badge/-SignalR-3A3A3A?style=flat&logo=signalr)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL--Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Architecture & Design
-![Microservices](https://img.shields.io/badge/-Microservices-007ACC?style=flat)
+---
+
+## 📫 Contact
+
+- 📧 Email: [hnguyenngoc.h@gmail.com](mailto:hnguyenngoc.h@gmail.com)
+- 🧑‍💻 GitHub: [Er2g0n](https://github.com/Er2g0n)
+
+---
+
+> *"Success is the sum of small efforts repeated day in and day out."* 💭
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=er2g0n&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er2g0n&show_icons=true&theme=radical)
