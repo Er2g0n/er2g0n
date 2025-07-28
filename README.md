@@ -5,7 +5,7 @@
 
 
 **DotNet Developer – Care Solution Vietnam**  
-📍 Ho Chi Minh City | 🗓️ Mar- June 2025  
+📍 Ho Chi Minh City | 🗓️ July - Present  
 
 **Fresher Software Engineer – NashTech Vietnam**  
 📍 Ho Chi Minh City | 🗓️ Mar- June 2025  
