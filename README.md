@@ -3,6 +3,10 @@
 💻 Aspiring .NET Developer passionate about building scalable web applications and growing every single day.
 ## 👔 Experience
 
+
+**DotNet Developer – Care Solution Vietnam**  
+📍 Ho Chi Minh City | 🗓️ Mar- June 2025  
+
 **Fresher Software Engineer – NashTech Vietnam**  
 📍 Ho Chi Minh City | 🗓️ Mar- June 2025  
 - Participated in a real Agile team environment, working with .NET and SQL Server.
