@@ -18,16 +18,17 @@
 ## 🛠️ Tech Highlights
 
 ### Full-stack
-### Full-stack
+Backend
 ![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL--Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Dapper](https://img.shields.io/badge/-Dapper-0085CA?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTYwIDQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMTYwdjQwSDB6Ii8+PC9zdmc+)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-239120?style=flat&logo=entity-framework&logoColor=white)
 ![Ocelot](https://img.shields.io/badge/-Ocelot-0085CA?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTYwIDQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMTYwdjQwSDB6Ii8+PC9zdmc+)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![MassTransit](https://img.shields.io/badge/-MassTransit-0085CA?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTYwIDQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMTYwdjQwSDB6Ii8+PC9zdmc+)
 ![SignalR](https://img.shields.io/badge/-SignalR-F6820C?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTYwIDQwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMTYwdjQwSDB6Ii8+PC9zdmc+)
+Database
+![SQL Server](https://img.shields.io/badge/-SQL--Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -37,7 +38,7 @@
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/-Azure%20SQL-CC2927?style=flat&logo=microsoftazure&logoColor=white)
+Deployment & Infrastructure
 ![Basic Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Basic Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
